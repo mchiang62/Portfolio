@@ -6,10 +6,13 @@
 nav {
     height: 75px;
     line-height: 75px;
+    background-color: white;
+    
 }
 
 #header-name {
     font-size: 50px;
+    color: rgb(142, 72, 170);
 
 }
 
@@ -26,9 +29,19 @@ main {
 
 footer {
     height: 100px;
+    
+}
+
+#sticky-footer{
+    background-color: rgb(142, 72, 170);
+    color: black;
 }
 
 #myself {
     height:250px;
     width: 250px;
+}
+
+img {
+    height: 200px;
 }
