@@ -1,5 +1,5 @@
 .brand-logo {
-    padding-left: 15px !important;
+    padding-left: 50px !important;
 
 }
 
@@ -7,12 +7,13 @@ nav {
     height: 75px;
     line-height: 75px;
     background-color: white;
-    
+
 }
 
 #header-name {
     font-size: 50px;
     color: rgb(142, 72, 170);
+    font-family: 'Anton', sans-serif;
 
 }
 
@@ -21,6 +22,12 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    background-image: url('https://wallpaperaccess.com/full/729354.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
 }
 
 main {
@@ -29,19 +36,31 @@ main {
 
 footer {
     height: 100px;
-    
+
 }
 
-#sticky-footer{
-    background-color: rgb(142, 72, 170);
-    color: black;
+#sticky-footer {
+    background-color:white;
+    color:  rgb(142, 72, 170);
 }
 
 #myself {
-    height:250px;
+    height: 250px;
     width: 250px;
 }
 
 img {
     height: 200px;
+}
+
+h4 {
+    color: rgb(142, 72, 170);
+    background-color: white; 
+    padding: 15px;
+    font-family: 'Anton', sans-serif;
+}
+
+p {
+    color: rgb(92, 5, 129);
+    
 }
