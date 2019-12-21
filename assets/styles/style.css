@@ -11,8 +11,8 @@ nav {
 }
 
 #header-name {
-    font-size: 50px;
-    color: rgb(142, 72, 170);
+    font-size: 45px;
+    color: rgba(11, 134, 235, 0.986);
     font-family: 'Anton', sans-serif;
 
 }
@@ -22,7 +22,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background-image: url('https://wallpaperaccess.com/full/729354.jpg');
+    background-image: url("/assets/images/lightblue.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -41,7 +41,7 @@ footer {
 
 #sticky-footer {
     background-color:white;
-    color:  rgb(142, 72, 170);
+    color:  rgba(11, 134, 235, 0.986);
 }
 
 #myself {
@@ -54,13 +54,13 @@ img {
 }
 
 h4 {
-    color: rgb(142, 72, 170);
+    color: rgba(11, 134, 235, 0.986);
     background-color: white; 
     padding: 15px;
     font-family: 'Anton', sans-serif;
 }
 
 p {
-    color: rgb(92, 5, 129);
+    color: rgba(11, 134, 235, 0.986);
     
 }
