@@ -7,6 +7,7 @@ nav {
     height: 75px;
     line-height: 75px;
     background-color: white;
+    color: rgba(11, 134, 235, 0.986);
 
 }
 
@@ -34,10 +35,10 @@ main {
     flex: 1 0 auto;
 }
 
-footer {
+/* footer {
     height: 100px;
 
-}
+} */
 
 #sticky-footer {
     background-color:white;
@@ -45,8 +46,9 @@ footer {
 }
 
 #myself {
-    height: 250px;
-    width: 250px;
+    height: 475px;
+    width: 350px;
+    float: left;
 }
 
 img {
@@ -67,5 +69,6 @@ p {
 
 #icons {
     float:right;
-    
+    margin-right: 50px;
+
 }
