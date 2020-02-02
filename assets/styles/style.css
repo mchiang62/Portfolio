@@ -63,13 +63,11 @@ h4 {
 }
 
 
-
 #icons {
     float:right;
     margin-right: 50px;
 
 }
-
 
 #myPortfolio {
     font-family: 'Anton', sans-serif;
@@ -79,3 +77,6 @@ h4 {
     font-weight: bold;
 }
 
+#dayBridge {
+    height: 365px;
+}
