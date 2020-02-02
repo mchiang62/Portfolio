@@ -22,7 +22,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background-image: url("/assets/images/lightblue.jpg");
+    /* background-image: url("/assets/images/Memphisbridge.jpg"); */
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -62,5 +62,10 @@ h4 {
 
 p {
     color: rgba(11, 134, 235, 0.986);
+    
+}
+
+#icons {
+    float:right;
     
 }
