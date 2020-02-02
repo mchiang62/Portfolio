@@ -23,16 +23,17 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    /* background-image: url("/assets/images/Memphisbridge.jpg"); */
+    /* background-image: url("/assets/images/Memphisbridge.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 18px;
 }
 
 main {
     flex: 1 0 auto;
+    color: rgba(11, 134, 235, 0.986);
 }
 
 /* footer {
@@ -40,10 +41,10 @@ main {
 
 } */
 
-#sticky-footer {
+/* #sticky-footer {
     background-color:white;
     color:  rgba(11, 134, 235, 0.986);
-}
+} */
 
 #myself {
     height: 475px;
@@ -56,19 +57,25 @@ img {
 }
 
 h4 {
-    color: rgba(11, 134, 235, 0.986);
     background-color: white; 
     padding: 15px;
     font-family: 'Anton', sans-serif;
 }
 
-p {
-    color: rgba(11, 134, 235, 0.986);
-    
-}
+
 
 #icons {
     float:right;
     margin-right: 50px;
 
 }
+
+
+#myPortfolio {
+    font-family: 'Anton', sans-serif;
+}
+
+#technical {
+    font-weight: bold;
+}
+
